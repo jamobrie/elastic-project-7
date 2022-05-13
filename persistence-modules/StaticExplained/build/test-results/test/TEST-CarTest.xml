@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-18T19:59:52" hostname="LAPTOP-4PVT6PA1" time="0.043">
+  <properties/>
+  <testcase name="testStaticBlocks()" classname="CarTest" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
